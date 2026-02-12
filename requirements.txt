@@ -1,0 +1,6 @@
+fastapi
+postgresql
+sqlalchemy
+pydantic
+uvicorn
+asyncio
